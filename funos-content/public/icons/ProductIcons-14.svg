@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.93 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3faff;
+      }
+
+      .cls-2 {
+        fill: #cdf2fa;
+      }
+
+      .cls-3 {
+        fill: #a6d5e0;
+      }
+
+      .cls-4 {
+        fill: #292929;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #4f4f4f;
+      }
+
+      .cls-6 {
+        fill: #707070;
+      }
+
+      .cls-7 {
+        fill: #b87000;
+      }
+
+      .cls-8 {
+        fill: #ff9c00;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-8" points="25.67 0 30.26 0 30.26 4.04 34.58 4.04 34.58 8.7 30.26 8.7 30.26 17.27 25.67 17.27 25.67 8.7 21.35 8.7 21.35 4.04 25.67 4.04 25.67 0"/>
+    <polygon class="cls-7" points="27.97 0 30.26 0 30.26 4.04 34.58 4.04 34.58 8.7 30.26 8.7 30.26 17.27 27.97 17.27 27.97 0"/>
+  </g>
+  <path class="cls-6" d="m27.97,49.64c10.67,0,19.37-8.21,19.37-18.28s-8.7-18.28-19.37-18.28S8.6,21.29,8.6,31.36s8.7,18.28,19.37,18.28Z"/>
+  <path class="cls-5" d="m27.97,13.08c10.7,0,19.37,8.18,19.37,18.28s-8.67,18.28-19.37,18.28V13.08Z"/>
+  <rect class="cls-2" x="8.29" y="31.96" width="39.35" height="32.69"/>
+  <rect class="cls-3" x="27.97" y="31.96" width="19.67" height="32.69"/>
+  <rect class="cls-1" x="7.75" y="31.96" width="40.44" height="2.42"/>
+  <rect class="cls-2" x="27.97" y="31.96" width="20.22" height="2.42"/>
+  <rect class="cls-1" y="40.68" width="55.93" height="41.32"/>
+  <rect class="cls-2" x="27.97" y="40.68" width="27.97" height="41.32"/>
+  <path class="cls-5" d="m27.97,47.74c6.38,0,11.58,4.76,11.82,10.73v.44s0,23.1,0,23.1h-23.66v-23.54c.25-5.96,5.45-10.73,11.83-10.73Z"/>
+  <path class="cls-4" d="m27.97,47.74c6.38,0,11.58,4.76,11.82,10.73v.44s0,23.1,0,23.1h-11.83v-34.26Z"/>
+</svg>
